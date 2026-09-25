@@ -9,8 +9,6 @@ npm install
 npm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000).
-
 ## Estructura
 
 - `app/` — rutas (inicio, tienda, detalle de juego, carrito, checkout)
