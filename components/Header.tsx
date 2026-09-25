@@ -9,7 +9,8 @@ export default function Header() {
     <header className="sticky top-0 z-40 border-b border-[#232636] bg-[#07080c]/90 backdrop-blur">
       <div className="container-gv flex items-center gap-4 py-4">
         <Link href="/" className="text-xl font-black tracking-tight">
-          GAME<span className="text-[#7c5cff]">VERSE</span>
+          GAME<span className="text-[#7c5cff]">SHOP</span>
+          <span className="ml-1 text-sm font-semibold text-[#9aa3b8]">Colombia</span>
         </Link>
         <div className="hidden flex-1 md:block">
           <SearchBar />

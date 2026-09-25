@@ -1,4 +1,4 @@
-# GameVerse
+# GameShop Colombia
 
 Tienda online de videojuegos construida con Next.js, TypeScript y Tailwind CSS.
 

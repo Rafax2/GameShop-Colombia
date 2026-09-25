@@ -8,8 +8,8 @@ import MobileMenu from "@/components/MobileMenu";
 import CartDrawer from "@/components/CartDrawer";
 
 export const metadata: Metadata = {
-  title: "GameVerse — Tienda de videojuegos",
-  description: "Compra juegos digitales para PC, PlayStation, Xbox y Nintendo.",
+  title: "GameShop Colombia — Tienda de videojuegos",
+  description: "Compra juegos digitales en Colombia para PC, PlayStation, Xbox y Nintendo.",
 };
 
 export default function RootLayout({

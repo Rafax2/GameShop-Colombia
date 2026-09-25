@@ -21,7 +21,7 @@ export default async function TiendaPage({
     <section className="space-y-6">
       <div>
         <p className="text-sm text-[#9aa3b8]">Catálogo</p>
-        <h1 className="text-3xl font-bold">Tienda GameVerse</h1>
+        <h1 className="text-3xl font-bold">Tienda GameShop Colombia</h1>
       </div>
       <GameGrid games={filtered} />
     </section>
